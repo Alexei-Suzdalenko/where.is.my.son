@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102319426738",
+    "firebase_url": "https://family-security-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "family-security-app",
+    "storage_bucket": "family-security-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102319426738:android:cb0673de729e88ca244dab",
+        "android_client_info": {
+          "package_name": "where.is.my.son"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102319426738-ie9l14vnep9jbguv0pqnsblj7l0dbpgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "where.is.my.son",
+            "certificate_hash": "8fe8356d8675c2029b50db4a53b30c955294477a"
+          }
+        },
+        {
+          "client_id": "102319426738-e7o2igerbihsg358g09rdbv7gg6nb5at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTgNmela-YZgrEPBy-MrAfbVL0Y4JFuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102319426738-e7o2igerbihsg358g09rdbv7gg6nb5at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Seguridad Familiar</string>
+    <string name="title_activity_maps">Seguridad de la familia. Donde esta mi hij@</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_legend">Permitir uso de la aplicación y excluir la misma de optimización de la batería</string>
+    <string name="more">Si</string>
+    <string name="you_need_enable_GPS">Necesita activar el GPS por favor</string>
+    <string name="enable_permission_location">Necesita activar los permisos de ubicación</string>
+    <string name="none"> </string>
+
+
+    <string name="facebook_app_id">2858074017792025</string>
+    <string name="fb_login_protocol_scheme">fb2858074017792025</string>
+    <string name="permission">Permisos</string>
+    <string name="out">Salir</string>
+    <string name="mores">Siguiente</string>
+    <string name="role">Función y clave</string>
+    <string name="titleRole">El papel del teléfono - </string>
+    <string name="password">Contraseña</string>
+    <string name="comeUpPassword">Inventate una contraseña</string>
+    <string name="save">Guardar</string>
+    <string name="indifined">desconocido</string>
+    <string name="change_role">Cambiar el rol de telefono</string>
+    <string name="insert_passwod">Insertar la contraseña</string>
+    <string name="password_error">Contraseña no es correcta</string>
+    <string name="web_developer">Mapa - Diseño Web Cantabria</string>
+    <string name="set_password_role">Seleccione el papel del telefono y contraseña</string>
+
+
+</resources>
